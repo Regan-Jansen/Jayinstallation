@@ -2,7 +2,7 @@
 
 Jay installations is a small business based in Cape Town that i created a website for using just HTML, CSS and Javascipt
 
-I used a dark theme design with a neon effect in the headings to represent the business services they offered
+I used a dark theme design with a neon effect in the headings to represent the business services they offered. I used Netlfiy as a host
 
 The link for the website is https://jayinstallations.co.za/
 
